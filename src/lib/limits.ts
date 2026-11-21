@@ -1,0 +1,11 @@
+/** Product limits from the PRD. */
+export const MAX_MEMBERS = 8; // AC-HOME-1
+export const MAX_LISTS = 20; // AC-HOME-2
+export const MAX_GOALS = 20; // AC-GOAL-9
+export const MAX_SCENARIOS = 4; // AC-GOAL-2
+export const BILL_NAME_MAX = 60; // AC-BILL-1
+export const UNDO_MS = 5000; // AC-BILL-7
+export const TOMBSTONE_TTL_DAYS = 30; // D11
+export const DUE_SOON_CHORE_DAYS = 2; // AC-HOME-9
+export const MAX_GOAL_MONTHS = 1200; // AC-GOAL-5
+export const MAX_GOAL_YEARS_AHEAD = 50; // AC-GOAL-6

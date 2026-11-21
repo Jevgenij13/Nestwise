@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#d9703f"/>
+<stop offset="1" stop-color="#a64420"/>
+</linearGradient>
+<linearGradient id="egg" x1="0.2" y1="0" x2="0.8" y2="1">
+<stop offset="0" stop-color="#fffaf2"/>
+<stop offset="1" stop-color="#f6dcbc"/>
+</linearGradient>
+</defs><rect width="1024" height="1024" rx="228" fill="url(#bg)"/>
+<path d="M196 560 C196 770 340 850 512 850 C684 850 828 770 828 560 Z" fill="#6f2f15"/>
+<ellipse cx="512" cy="560" rx="316" ry="62" fill="#4a1d0b"/>
+<path d="M512 262 C612 262 664 392 664 492 C664 590 600 650 512 650 C424 650 360 590 360 492 C360 392 412 262 512 262 Z" fill="url(#egg)"/>
+<path d="M452 340 C430 372 420 416 424 456" fill="none" stroke="#ffffff" stroke-opacity="0.7" stroke-width="22" stroke-linecap="round"/>
+<g fill="none" stroke-linecap="round" stroke-width="34">
+<path d="M178 590 C250 790 390 842 512 842 C634 842 774 790 846 590" stroke="#ffd9a0"/>
+<path d="M232 618 C330 718 430 740 512 740 C594 740 694 718 792 618" stroke="#f3b878"/>
+<path d="M262 700 C350 790 440 812 512 812 C584 812 674 790 762 700" stroke="#ffe6bf"/>
+</g></svg>
